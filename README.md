@@ -47,7 +47,7 @@ A **high-performance, lightweight, and accurate** C++ tool designed to **automat
 
 ---
 
-## Example
+## Preview
 
 ![offsetdumper](https://github.com/user-attachments/assets/87cbad11-81f3-4da2-b0fd-cd1c8cf1d8f7)
 
