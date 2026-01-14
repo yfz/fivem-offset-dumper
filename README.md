@@ -49,7 +49,7 @@ A **high-performance, lightweight, and accurate** C++ tool designed to **automat
 
 ## Example
 
-![offsetdumper](https://private-user-images.githubusercontent.com/77736474/508559576-5a14d26e-63d9-4fa5-9210-c4ff30271927.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg0MDk4MTcsIm5iZiI6MTc2ODQwOTUxNywicGF0aCI6Ii83NzczNjQ3NC81MDg1NTk1NzYtNWExNGQyNmUtNjNkOS00ZmE1LTkyMTAtYzRmZjMwMjcxOTI3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE0VDE2NTE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxMDcwZmYwNWNjNjcxZWUwYzMyZTBkM2Y5ZTBmMzZlODhlZTcwNWZmMWNjZmJmYzBiYTUyYTIwNDdiMTczYzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qH9j0OvltzXWzp513qeSLkTXi0k9Ehj_RO_EfqHxr0Q)
+![offsetdumper](https://github.com/user-attachments/assets/87cbad11-81f3-4da2-b0fd-cd1c8cf1d8f7)
 
 > Offsets are **relative to module base** (`FiveM_*.exe`)
 
